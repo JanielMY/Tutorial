@@ -1,8 +1,4 @@
 # Tutorial
 
-janielmarquez
-
-| Cabecera 1 | Cabecera 2 |
-| ---------- | ---------- |
-| Elem 1, 1  | Elem 1, 2  |
-| Elem 1, 2  | Elem 2, 2  |
+- [ ] [aprender markdown](https://sanchezcorbalan.es/mejores-comandos-linux-bash/)
+- [ ] [aprender comandos bash](https://markdown.es/)
